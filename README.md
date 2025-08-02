@@ -83,7 +83,16 @@ The dataset included **Store location** and **Store setting** to analyze trends 
 ---
 
 ## 🎨 Dashboard Preview
-> *(Add screenshots of your Power BI dashboard here)*
+<p align="center">
+  <img src="Screenshots/Tabular%20Chart.png" width="300"/>
+  <img src="Screenshots/Matrix%20chart.png" width="300"/>
+  <img src="Screenshots/Funnel%20chart.png" width="300"/>
+</p>
+<p align="center">
+  <img src="Screenshots/Pie%20chart.png" width="300"/>
+  <img src="Screenshots/Scatter%20Plot.png" width="300"/>
+  <img src="Screenshots/Sand%20Dance.png" width="300"/>
+</p>
 
 ---
 
